@@ -8,4 +8,5 @@ HTML ve CSS tarafından geliştirildi.
 
 <h2>Ekran Goruntusu</h2>
 
-![](ekran.gif.mp4)
+https://github.com/user-attachments/assets/a2fcd8ef-d89b-408b-92bb-d8f13d13a423
+
