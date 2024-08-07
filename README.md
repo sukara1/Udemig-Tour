@@ -8,5 +8,9 @@ HTML ve CSS tarafından geliştirildi.
 
 <h2>Ekran Goruntusu</h2>
 
-https://github.com/user-attachments/assets/a2fcd8ef-d89b-408b-92bb-d8f13d13a423
+https://github.com/user-attachments/assets/9ece6daf-addd-43d5-868c-0d472b270881
+
+
+
+
 
